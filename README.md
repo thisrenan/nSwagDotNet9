@@ -2,7 +2,7 @@
 
 A nSwag example for .NET 9 using nSwag package.
 
-The nSwag package replace the Swagger and ReDoc documentation, wich you can select using "app.UseSwaggerUi" or "app.UseReDoc" in the program.cs config file.
+The nSwag package replace the Swagger and ReDoc documentation, which you can select using "app.UseSwaggerUi" or "app.UseReDoc" in the program.cs config file.
 
 ReDoc:
 
